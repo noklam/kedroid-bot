@@ -1,0 +1,7 @@
+python-telegram-bot==12.4.2
+flask
+gunicorn
+requests
+selenium
+pandas
+configparser
